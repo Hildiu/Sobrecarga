@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Seagate Backup Plus Drive/UTEC-Bachup-Al-25demarzo-2019/2019-AL-28deJunio/2019-01 Cursos/03 POO1/15 Sobrecarga/Sobrecarga/Entero.cpp
+Entero.h
+/Volumes/Seagate Backup Plus Drive/UTEC-Bachup-Al-25demarzo-2019/2019-AL-28deJunio/2019-01 Cursos/03 POO1/15 Sobrecarga/Sobrecarga/Entero.h
+
+/Volumes/Seagate Backup Plus Drive/UTEC-Bachup-Al-25demarzo-2019/2019-AL-28deJunio/2019-01 Cursos/03 POO1/15 Sobrecarga/Sobrecarga/Entero.h
+iostream
+-
+
